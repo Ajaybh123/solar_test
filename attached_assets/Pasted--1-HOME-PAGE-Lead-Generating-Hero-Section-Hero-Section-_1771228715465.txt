@@ -1,0 +1,281 @@
+☀ 1️⃣ HOME PAGE (Lead Generating Hero Section)
+🔥 Hero Section
+
+Headline:
+
+“Switch to Solar & Save Up To 80% On Electricity Bills”
+
+Sub-headline (India focused):
+
+Government Subsidy Available Under PM Solar Yojana – Book Free Site Visit Today
+
+CTA Buttons:
+
+Get Free Quote
+
+Apply For Subsidy
+
+WhatsApp Now
+
+💡 Why Choose Us (Trust Section)
+
+MNRE Approved Vendor
+
+25 Years Panel Warranty
+
+500+ Installations
+
+5 Star Rated Service
+
+🏠 Our Solar Services (Preview Cards)
+
+Residential Rooftop Solar
+
+Commercial Solar Solutions
+
+Industrial Solar Plant Installation
+
+Button → View All Services
+
+📊 Savings Calculator Teaser
+
+Short section:
+“Check How Much You Can Save With Solar”
+
+Button → Calculate Now
+
+🖼 Recent Projects Preview
+
+3 project images:
+
+5kW Home Installation – Delhi
+
+20kW Factory Setup – Jaipur
+
+10kW Commercial Building – Ahmedabad
+
+📍 Contact CTA Section
+
+“Book Your Free Site Survey Today”
+
+Form:
+
+Name
+
+Mobile
+
+City
+
+Monthly Electricity Bill
+
+Submit
+
+🏢 2️⃣ ABOUT COMPANY PAGE
+
+Sections:
+
+Company Intro
+
+“We are one of the fastest growing solar installation companies in India…”
+
+Mission
+
+Promote clean energy & affordable power.
+
+Certifications
+
+MNRE Registered
+
+ISO Certified
+
+Govt Approved Vendor
+
+Service Areas
+
+Delhi
+
+Jaipur
+
+Ahmedabad
+
+Bengaluru
+
+🔋 3️⃣ SOLAR SERVICES PAGE
+Residential Solar
+
+1kW – 10kW
+
+Net Metering Support
+
+Subsidy Assistance
+
+Commercial Solar
+
+10kW – 100kW
+
+Faster ROI
+
+3–5 Years Payback
+
+Industrial Solar
+
+100kW+
+
+Customized Design
+
+Load Analysis
+
+Add:
+ROI chart (simple image)
+
+🏛 4️⃣ SUBSIDY INFORMATION PAGE (Very Important)
+
+Title:
+“PM Solar Rooftop Subsidy Scheme 2024”
+
+Explain:
+
+Up to 40% subsidy for residential
+
+Net metering available
+
+State-wise subsidy variation
+
+Add eligibility:
+
+Indian citizen
+
+Own rooftop
+
+Valid electricity connection
+
+CTA:
+“Apply For Subsidy Assistance”
+
+🖼 5️⃣ PROJECTS GALLERY PAGE
+
+Add:
+
+Filter buttons:
+
+Residential
+
+Commercial
+
+Industrial
+
+Each project card:
+
+Location
+
+Capacity (kW)
+
+Year
+
+Before/After Image
+
+Example locations:
+
+Surat
+
+Mumbai
+
+📊 6️⃣ EMI CALCULATOR PAGE (Simple JS Logic)
+
+Inputs:
+
+System Size (kW)
+
+Total Cost
+
+Down Payment
+
+Interest Rate
+
+Loan Tenure (Years)
+
+Formula:
+EMI = [P × R × (1+R)^N] / [(1+R)^N – 1]
+
+Show:
+Monthly EMI
+Estimated Savings
+Payback Period
+
+Extra:
+Show electricity bill savings approx:
+₹1kW ≈ ₹1200–1500 monthly savings (India avg)
+
+📞 7️⃣ CONTACT PAGE
+
+Form Fields:
+
+Name
+
+Phone
+
+Email
+
+City
+
+Property Type
+
+Message
+
+Button:
+Book Free Site Visit
+
+Add:
+Google Map iframe embed
+
+💬 8️⃣ WHATSAPP BUTTON (Floating)
+
+Right bottom:
+“Chat With Solar Expert”
+
+Link format:
+https://wa.me/91XXXXXXXXXX?text=Hi%20I%20want%20solar%20installation%20details
+
+🗺 9️⃣ GOOGLE MAP INTEGRATION
+
+Embed company office location:
+Example:
+Delhi office map embed
+
+🎨 Design Style Suggestion (For Replit Demo)
+
+Color Theme:
+
+Yellow (#FDB813)
+
+Dark Blue (#002B5B)
+
+White background
+
+Font:
+Poppins / Montserrat
+
+Sections spacing clean and modern.
+
+🔥 Demo Folder Structure (Replit Ready)
+
+index.html
+about.html
+services.html
+subsidy.html
+projects.html
+calculator.html
+contact.html
+style.css
+script.js
+
+💰 India Market Focus Add Karna
+
+Hero me mention:
+“Government Approved Solar Installer”
+
+Subsidy page me:
+State-wise support
+
+Contact form me:
+City dropdown (Top Solar Cities)
