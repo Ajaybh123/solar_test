@@ -83,11 +83,12 @@ app.use((req, res, next) => {
     await setupVite(httpServer, app);
   }
 
-  // Use PORT from env or default to 5000
-  const port = parseInt(process.env.PORT || "5000", 10);
+  // Use PORT from env or default
+const port = parseInt(process.env.PORT || "10000", 10);
 
-  // ✅ FIXED LISTEN (Windows + Node 22+ compatible)
-  httpServer.listen(port, "127.0.0.1", () => {
-    log(`serving on http://127.0.0.1:${port}`);
-  });
+// IMPORTANT: bind to 0.0.0.0 for Render
+httpServer.listen(port, "0.0.0.0", () => {
+  log(`serving on port ${port}`);
+});
+
 })();
